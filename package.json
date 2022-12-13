@@ -19,7 +19,7 @@
   },
   "homepage": "git+https://github.com/brownjessa/HW11_Note-Taker.git",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql": "^2.18.1",
     "uuidv1": "^1.6.14"
   }
